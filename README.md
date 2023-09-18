@@ -5,9 +5,9 @@
   <img src="./ometman-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Math Magicians Application: by Ometman</b></h3>
-  <h5>"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read a randomly generated math-related quote.
+  <h5>"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read a randomly generated math-related quote. On the frontend, the React framework is employed to display contents from 3 pages: a home page component, calculator component and a math quote component, which consumes an API.
 
-  The website has 3 pages: the home, calculator, and quotes. It consumes a public API to display math quotes. It was setup with 'create-react-app' and employs React components, props and Routing.
+  It was setup with 'create-react-app' and employs components, props, states and Routing.
   Enjoy it!
   
 </div>
@@ -36,8 +36,6 @@
 
 
 # 📖 Math Magician Project <a name="about-project"></a>
-
-This is just a simple SPA (Single Page Application) app that uses React framework to display contents from a home page component, calculator component and a math quote componentm which consumens an API.
 
 **A Demo Video: Introduction to this Project**
 --coming soon
