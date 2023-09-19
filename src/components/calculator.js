@@ -1,4 +1,4 @@
-import TheScreen from './Screen';
+import TheScreen from './screen';
 
 function Btn(prop) {
   const { name } = prop;
