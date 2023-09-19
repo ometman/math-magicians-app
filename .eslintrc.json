@@ -19,8 +19,6 @@
       "react/react-in-jsx-scope": "off",
       "import/no-unresolved": "off",
       "no-shadow": "off"
-      // windows linebreaks when not in production environment
-      // "linebreak-style": ["error", "unix | windows"]
     },
     "overrides": [
       {
